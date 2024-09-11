@@ -1,4 +1,4 @@
-# Bioinformatics Course: Genomic Surveillance of *S.pneumoniae* and *S. agalactiae*
+# Bioinformatics Course: Genomic Surveillance of *Streptococcus pneumoniae* and *Streptococcus agalactiae*
 *Adapted from the course: Advanced Bioinformatics Course developed for the GPS and JUNO projects.*
 
 ## Summary
@@ -30,12 +30,9 @@ Before starting this advanced bioinformatics course, it is recommended to have r
 
 ## Program
 
-### Module 1: [Introduction to Google Colaboratory](01.Intro_to_colab.ipynb)
+### Module 1: [Introduction to Google Colaboratory](https://github.com/cabana-online/Tutorial_Introduccion/blob/main/01.Intro_a_colab.ipynb)
 
-Before starting this advanced bioinformatics course, it is recommended to have reviewed or completed the following courses:
-
-"[Fundamental module 1 (F1)](https://training.bactgen.sanger.ac.uk/#/F1/)"
-"[Fundamental module 2 (F2)](https://training.bactgen.sanger.ac.uk/#/F2/)"
+Modules 1, 2 and 3 can be found in the repository [Introduction](https://github.com/cabana-online/Introduction_tutorial)
 
 To get started, go to https://colab.research.google.com/.
 
@@ -43,7 +40,7 @@ On the Colab homepage, select "File" and then "Open notebook".
 
 There is a tab for "GitHub"; select that tab and paste the following URL into the search bar under "Enter a GitHub URL or search by organization or user":
 
-`https://github.com/lusacristan/Genomic_surveillance_course_english`
+`https://github.com/cabana-online/Introduction_tutorial`
 
 
 After a brief search, you will see the notebook:
@@ -56,15 +53,13 @@ To run the cells, you will need to sign in with your Google account (feel free t
 
 **Note:** there are limitations in the free version, but they will not be reached in this course.
 
-### Module 2: [Introduction to Notebooks and Unix/Linux](02.Modulo_2_linux.ipynb)
-
-Modules 2 and 3 are located in the course repository [Bioinformatics for SARS-CoV-2 analysis for beginners.](https://github.com/lusacristan/SARS-CoV-2-Course-english). Below are the instructions:
+### Module 2: [Introduction to Notebooks and Unix/Linux](https://github.com/cabana-online/Introduction_tutorial/blob/main/02.Module_2_linux.ipynb)
 
 Go to https://colab.research.google.com/.
 
 Select the repository
 
-`https://github.com/lusacristan/SARS-CoV-2-Course-english `
+`https://github.com/cabana-online/Introduction_tutorial `
 
 After a brief search, you will see the notebook:
 
@@ -72,15 +67,13 @@ After a brief search, you will see the notebook:
 
 Select it and you will see the notebook open.
 
-### Module 3: [Introduction to NGS Technologies](03.Modulo_3_NGS.ipynb)
-
-Modules 2 and 3 are located in the course repository [Bioinformatics for SARS-CoV-2 analysis for beginners.](https://github.com/lusacristan/SARS-CoV-2-Course-english). Below are the instructions:
+### Module 3: [Introduction to NGS Technologies](https://github.com/cabana-online/Introduction_tutorial/blob/main/03.Module_3_NGS.ipynb)
 
 Go to https://colab.research.google.com/.
 
 Select the repository
 
-`https://github.com/lusacristan/SARS-CoV-2-Course-english`
+`https://github.com/cabana-online/Introduction_tutorial`
 
 After a brief search, you will see the notebook:
 
@@ -88,168 +81,168 @@ After a brief search, you will see the notebook:
 
 Select it and you will see the notebook open.
 
-### Module 4: [Data Quality Control](02.Module_2_QC.ipynb)
+### Module 4: [Data Quality Control](04.Module_4_QC.ipynb)
 
 Go to https://colab.research.google.com/.
 
 Select the repository
 
-`https://github.com/lusacristan/Genomic_surveillance_course_english`
+`https://github.com/cabana-online/Genomic_surveillance`
 
 After a brief search, you will see the notebook:
 
-`02.Module_2_QC.ipynb`
+`04.Module_4_QC.ipynb`
 
 Select it and you will see the notebook open.
 
-### Module 5: [Taxonomic Classification of Sequences](03.Module_3_taxonomy.ipynb)
+### Module 5: [Taxonomic Classification of Sequences](05.Module_5_taxonomy.ipynb)
 
 Go to https://colab.research.google.com/.
 
 Select the repository
 
-`https://github.com/lusacristan/Genomic_surveillance_course_english`
+`https://github.com/cabana-online/Genomic_surveillance`
 
 After a brief search, you will see the notebook:
 
-`03.Module_3_taxonomy.ipynb`
+`05.Module_5_taxonomy.ipynb`
 
 Select it and you will see the notebook open.
 
-### Module 6: [*De Novo* Assemblies](04.Module_4_assembly.ipynb)
+### Module 6: [*De Novo* Assemblies](06.Module_6_assembly.ipynb)
 
 Go to https://colab.research.google.com/.
 
 Select the repository
 
-`https://github.com/lusacristan/Genomic_surveillance_course_english`
+`https://github.com/cabana-online/Genomic_surveillance`
 
 After a brief search, you will see the notebook:
 
-`04.Module_4_assembly.ipynb`
+`06.Module_6_assembly.ipynb`
 
 Select it and you will see the notebook open.
 
-### Module 7: [Genome Annotation](05.Module_5_annotation.ipynb)
+### Module 7: [Genome Annotation](07.Module_7_annotation.ipynb)
 
 Go to https://colab.research.google.com/.
 
 Select the repository
 
-`https://github.com/lusacristan/Genomic_surveillance_course_english`
+`https://github.com/cabana-online/Genomic_surveillance`
 
 After a brief search, you will see the notebook:
 
-`05.Module_5_annotation.ipynb`
+`07.Module_7_annotation.ipynb`
 
 Select it and you will see the notebook open.
 
 
-### Module 8: [Serotyping *Streptococcus pneumoniae* and *Streptococcus agalactiae*](06.Module_6_serotyping.ipynb)
+### Module 8: [Serotyping *Streptococcus pneumoniae* and *Streptococcus agalactiae*](08.Module_8_serotyping.ipynb)
 
 Go to `https://colab.research.google.com/`.
 
 Select the repository
 
-`https://github.com/lusacristan/Genomic_surveillance_course_english`
+`https://github.com/cabana-online/Genomic_surveillance`
 
 After a brief search, you will see the notebook:
 
-`06.Module_6_serotyping.ipynb`
+`08.Module_8_serotyping.ipynb`
 
 Select it and you will see the notebook open.
 
-### Module 9: [MLST (Multilocus Sequence Typing)](07.Module_7_mlst.ipynb)
+### Module 9: [MLST (Multilocus Sequence Typing)](09.Module_9_mlst.ipynb)
 
 Go to `https://colab.research.google.com/`.
 
 Select the repository
 
-`https://github.com/lusacristan/Genomic_surveillance_course_english`
+`https://github.com/cabana-online/Genomic_surveillance`
 
 After a brief search, you will see the notebook:
 
-`07.Module_7_mlst.ipynb`
+`09.Module_9_mlst.ipynb`
 
 Select it and you will see the notebook open.
 
-### Module 10: [AMR (Antimicrobial Resistance)](08.Module_8_AMR.ipynb)
+### Module 10: [AMR (Antimicrobial Resistance)](10.Module_10_AMR.ipynb)
 
 Go to `https://colab.research.google.com/`.
 
 Select the repository
 
-`https://github.com/lusacristan/Genomic_surveillance_course_english`
+`https://github.com/cabana-online/Genomic_surveillance`
 
 After a brief search, you will see the notebook:
 
-`08.Module_8_AMR.ipynb`
+`10.Module_10_AMR.ipynb`
 
 Select it and you will see the notebook open.
 
-### Module 11: [Mapping](09.Module_9_mapping.ipynb)
+### Module 11: [Mapping](11.Module_11_mapping.ipynb)
 
 Go to `https://colab.research.google.com/`.
 
 Select the repository
 
-`https://github.com/lusacristan/Genomic_surveillance_course_english`
+`https://github.com/cabana-online/Genomic_surveillance`
 
 After a brief search, you will see the notebook:
 
-`09.Module_9_mapping.ipynb`
+`11.Module_11_mapping.ipynb`
 
 Select it and you will see the notebook open.
 
-### Module 12: [Variant Calling](10.Module_10_variant_calling.ipynb)
+### Module 12: [Variant Calling](12.Module_12_variant_calling.ipynb)
 
 Go to `https://colab.research.google.com/`.
 
 Select the repository
 
-`https://github.com/lusacristan/Genomic_surveillance_course_english`
+`https://github.com/cabana-online/Genomic_surveillance`
 
 After a brief search, you will see the notebook:
 
-`10.Module_10_variant_calling.ipynb`
+`12.Module_12_variant_calling.ipynb`
 
 Select it and you will see the notebook open.
 
-### Module 13: [Phylogenetics](11.Module_11_phylogenetic.ipynb)
+### Module 13: [Phylogenetics](13.Module_13_phylogenetic.ipynb)
 
 Go to `https://colab.research.google.com/`.
 
 Select the repository
 
-`https://github.com/lusacristan/Genomic_surveillance_course_english`
+`https://github.com/cabana-online/Genomic_surveillance`
 
 After a brief search, you will see the notebook:
 
-`11.Module_11_phylogenetic.ipynb`
+`13.Module_13_phylogenetic.ipynb`
 
 Select it and you will see the notebook open.
 
-### Module 14: [NGS Bioinformatics Workflows](12.Module_12_intro_to_pipelines.ipynb)
+### Module 14: [NGS Bioinformatics Workflows](14.Module_14_intro_to_pipelines.ipynb)
 
 Go to `https://colab.research.google.com/`.
 
 Select the repository
 
-`https://github.com/lusacristan/Genomic_surveillance_course_english`
+`https://github.com/cabana-online/Genomic_surveillance`
 
 After a brief search, you will see the notebook:
 
-`12.Module_12_intro_to_pipelines.ipynb`
+`14.Module_14_intro_to_pipelines.ipynb`
 
 Select it and you will see the notebook open.
 
-### Module 15: [GPS and GBS Workflows](13.Module_13_GPS_unified_pipeline.ipynb)
+### Module 15: [GPS and GBS Workflows](15.Module_15_GPS_unified_pipeline.ipynb)
 
 Go to `https://colab.research.google.com/`.
 
 Select the repository
 
-`https://github.com/lusacristan/Genomic_surveillance_course_english`
+`https://github.com/cabana-online/Genomic_surveillance`
 
 After a brief search, you will see the notebook:
 
