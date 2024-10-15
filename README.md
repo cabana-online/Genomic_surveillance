@@ -3,7 +3,9 @@
 
 ## Summary
 
-The Global Pneumococcal Sequencing (GPS) project is a worldwide network for genomic surveillance of *Streptococcus pneumoniae* providing evidence for pneumococcal disease control. The JUNO project is a global genomic surveillance of *Streptococcus agalactiae*, a major cause of neonatal invasive disease worldwide. One of the main objectives of the GPS and JUNO projects is to strengthen the capacity of our project collaborators in the generation and analysis of genomic data. This course is designed to train participants in genomic surveillance of *S. agalactiae* and *S. pneumoniae*. Through this program, attendees will gain essential knowledge and skills for the generation, analysis, and interpretation of genomic data relevant to these pathogens. This course aims to provide participants with the necessary tools to conduct effective genomic surveillance, thus contributing to the control and prevention of diseases caused by *S. agalactiae* and *S. pneumoniae*.
+The Global Pneumococcal Sequencing (GPS) project is a worldwide network for genomic surveillance of *Streptococcus pneumoniae* providing evidence for pneumococcal disease control. The JUNO project is a global genomic surveillance of *Streptococcus agalactiae*, a major cause of neonatal invasive disease worldwide. One of the main objectives of the GPS and JUNO projects is to strengthen the capacity of our project collaborators in the generation and analysis of genomic data. This course is designed to train participants in genomic surveillance of *S. agalactiae* and *S. pneumoniae*. Through this program, attendees will gain essential knowledge and skills for the generation, analysis, and interpretation of genomic data relevant to these pathogens. 
+
+This course aims to provide participants with the necessary tools to conduct effective genomic surveillance, thus contributing to the control and prevention of diseases caused by *S. agalactiae* and *S. pneumoniae*.
 
 ## Learning Objectives
 
@@ -254,6 +256,9 @@ Select it and you will see the notebook open.
 ## Funding
 
 ![Bill & Melinda Gates foundation](./images/funding.png)
+
+<img src="./images/funding.png" width="500" height="600">
+
 
 
 ## Partners
