@@ -278,10 +278,10 @@ Select it and you will see the notebook open.
 
 ## Partners
 
-<img src="./images/agr1.png" width="250" height="150">
+<img src="./images/agr1.png" width="240" height="150">
 <img src="./images/Universidad-de-los-Andes-650x251.png" width="250" height="100">
 <img src="./images/Logo-MRC.png" width="250" height="100">
-<img src="./images/LSHTMLogo2020.svg.png" width="250" height="100">
+<img src="./images/LSHTMLogo2020.svg.png" width="250" height="110">
 <img src="./images/lums.png" width="250" height="100">
 <img src="./images/Sanger_Logo.png" width="250" height="100">
 
