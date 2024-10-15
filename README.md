@@ -265,6 +265,7 @@ Select it and you will see the notebook open.
 
 - ![Central Research Laboratory - KIMS BENGALURU](./images/agr1.png)
 
+
 - ![Universidad de los Andes](./images/Universidad-de-los-Andes-650x251.png)
 
 - ![MRC](./images/Logo-MRC.png)
@@ -275,6 +276,14 @@ Select it and you will see the notebook open.
 
 - ![Wellcome Sanger Insitute](./images/Sanger_Logo.png)
 
+## Partners
+
+<img src="./images/agr1.png" width="350" height="200">
+<img src="./images/Universidad-de-los-Andes-650x251.png" width="350" height="200">
+<img src="./images/Logo-MRC.png" width="350" height="200">
+<img src="./images/LSHTMLogo2020.svg.png" width="350" height="200">
+<img src="./images/lums.png" width="350" height="200">
+<img src="./images/Sanger_Logo.png" width="350" height="200">
 
 
 ## Contributors
