@@ -257,7 +257,7 @@ Select it and you will see the notebook open.
 
 ![Bill & Melinda Gates foundation](./images/funding.png)
 
-<img src="./images/funding.png" width="500" height="600">
+<img src="./images/funding.png" width="50" height="60">
 
 
 
