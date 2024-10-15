@@ -257,24 +257,9 @@ Select it and you will see the notebook open.
 
 ![Bill & Melinda Gates foundation](./images/funding.png)
 
-<img src="./images/funding.png" width="350" height="200">
+<img src="./images/funding.png" width="350" height="210">
 
 
-
-## Partners
-
-- ![Central Research Laboratory - KIMS BENGALURU](./images/agr1.png)
-
-
-- ![Universidad de los Andes](./images/Universidad-de-los-Andes-650x251.png)
-
-- ![MRC](./images/Logo-MRC.png)
-
-- ![London School of Hygiene & Tropical Medicine](./images/LSHTMLogo2020.svg.png)
-
-- ![LUMS - A Not-for-Profit University](./images/lums.png)
-
-- ![Wellcome Sanger Insitute](./images/Sanger_Logo.png)
 
 ## Partners
 
