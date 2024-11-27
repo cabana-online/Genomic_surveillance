@@ -1,6 +1,12 @@
 # Bioinformatics Course: Genomic Surveillance of *Streptococcus pneumoniae* and *Streptococcus agalactiae*
 *Adapted from the course: Advanced Bioinformatics Course developed for the GPS and JUNO projects.*
 
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14231070.svg)](https://doi.org/10.5281/zenodo.14231070)
+
+
+
 ## Summary
 
 The Global Pneumococcal Sequencing (GPS) project is a worldwide network for genomic surveillance of *Streptococcus pneumoniae* providing evidence for pneumococcal disease control. The JUNO project is a global genomic surveillance of *Streptococcus agalactiae*, a major cause of neonatal invasive disease worldwide. One of the main objectives of the GPS and JUNO projects is to strengthen the capacity of our project collaborators in the generation and analysis of genomic data. This course is designed to train participants in genomic surveillance of *S. agalactiae* and *S. pneumoniae*. Through this program, attendees will gain essential knowledge and skills for the generation, analysis, and interpretation of genomic data relevant to these pathogens. 
